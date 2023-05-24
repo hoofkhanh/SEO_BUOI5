@@ -1,0 +1,91 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog NK</title>
+    <link rel="stylesheet" type="text/css" href="blog2.css">
+</head>
+<body>
+     <!-- Đây là khu vực chứa hình ảnh trang -->
+    <div class="image">
+        <img src="Image/hinh_NK.jpg" alt="Hình ảnh" style="width: 500PX;height: 300px;margin-left: 160px;">
+    </div>
+    <div class="menu">
+        <ul>
+            <li><a href="blog2.html">Trang chủ</a></li>
+            <li><a href="content2.html">Bài Viết</a></li>
+            <li><a href="#">Sức khỏe & Làm đẹp</a></li>
+            <li><a href="#">Kinh Nghiệm</a></li>
+        </ul>
+
+    </div>
+    <div class="container">
+        <div class="left">
+            <h1 style="padding-left: 70px;">[BLOG NK] Đẹp từ bên trong</h1>
+            <p style="padding-left: 40px; line-height: 28px;">
+                <span style="padding-left: 30px;">Chào</span> mừng đến với thế giới của mỹ phẩm - một ngành công nghiệp vô cùng hấp dẫn và phát triển nhanh chóng. <a href="MyPham.html">Mỹ phẩm từ NK</a> được biết đến với chất lượng cao, tính năng tiên tiến và khả năng chăm sóc da tuyệt vời. Với sự đa dạng và sự chăm sóc cơ bản cho làn da và tóc, mỹ phẩm NK đã trở thành một lựa chọn phổ biến cho những người muốn nâng cao vẻ đẹp và tự tin của mình.</p>
+
+                <p style="padding-left: 40px; line-height: 28px;">
+                    <span style="padding-left: 30px;">Mỹ</span> phẩm <a href="MyPham.html">NK</a> được sản xuất với sự chú trọng đến công thức chất lượng cao và thành phần tự nhiên. Các công ty mỹ phẩm Mỹ thường đầu tư nghiên cứu và phát triển để mang đến những sản phẩm hiệu quả và an toàn cho người dùng. Đồng thời, các tiêu chuẩn chất lượng nghiêm ngặt và quy trình kiểm tra đảm bảo rằng mỗi sản phẩm đáp ứng được các yêu cầu cao nhất.</p>
+
+                    <p style="padding-left: 40px; line-height: 28px;">
+                        <span style="padding-left: 30px;">Các</span>  sản phẩm mỹ phẩm <a href="MyPham.html">NK</a> không chỉ tập trung vào việc làm đẹp bên ngoài, mà còn chú trọng đến việc cung cấp dưỡng chất và bảo vệ da. Chúng có thể bao gồm các sản phẩm chăm sóc da hàng ngày như kem dưỡng ẩm, serum chống lão hóa, sữa rửa mặt và kem chống nắng. Bên cạnh đó,<a href="MyPham.html">Mỹ phẩm từ NK</a> cũng cung cấp các sản phẩm trang điểm như phấn nền, son môi, phấn má hồng và nhiều sản phẩm khác để giúp bạn tạo nên vẻ đẹp tự nhiên và rạng rỡ.</p>
+
+                        <p style="padding-left: 40px; line-height: 28px;">
+                            <span style="padding-left: 30px;">Khác</span>  với những mỹ phẩm khác trên thị trường, <a href="MyPham.html">Mỹ phẩm từ NK</a>  thường mang trong mình sự đa dạng về màu sắc, chất lượng và lựa chọn sản phẩm phong phú. Bạn có thể tìm thấy những sản phẩm phù hợp với mọi loại da và tóc, từ da khô đến da nhạy cảm, từ tóc bình thường đến tóc hư tổn. Điều này cho phép bạn tìm thấy những sản phẩm tốt nhất để điều chỉnh và cải thiện vẻ đẹp tự</p>
+<br><br><br><br><br><br><br><br>
+                <h1 style="padding-left: 70px;">[TOP] KEM CHỐNG NẮNG AN TOÀN CHO MẸ BẦU</h1>
+                 <p style="padding-left: 40px; line-height: 28px;color: blue;">
+                <span style="padding-left: 30px; ">Hôm</span>
+                Có 2 loại kem chống nắng trên thị trường: kem chống nắng hoá học (chemical sunscreen) và kem chống nắng vật lý (physical hoặc mineral sunscreen) </p>
+                <p style="padding-left: 40px; line-height: 28px;">
+                    <span style="padding-left: 30px;">Kem</span> chống nắng hoá học thường chứa các hợp chất gốc carbon, ví dụ: oxybenzone, octinoxate, octisalate và avobenzone. Theo các bác sĩ da liễu thì những hợp chất này thường tạo ra các phản ứng hoá học, chuyển hoá các tia UV thành nhiệt khi nằm trên da. Còn các kem chống nắng vật lý sẽ chặn các tia UV một cách cơ học hơn, chúng chứa các hoạt chất khoáng như titanium dioxide và zinc oxide. Những hoạt chất này nằm trên bề mặt da, tạo thành một lớp màng phản chiếu các tia UV từ ánh nắng mặt trời..</p>
+
+       
+            </div>
+        
+        <div class="right">
+            <br><br><br><br><br> <br><br> <img src="Image/hinh_5.png" alt="Hình ảnh" style="width: 600px;height: 500px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <img src="Image/hinh_6.png" alt="Hình ảnh" style="width: 600px;">
+            
+        </div>
+    </div>
+
+</div>
+ 
+<!-- Đây là khu vực chứa footer các số điện thoại liên hệ ,... -->
+  <div class="row">   
+      <div class="col-md-4">
+       <b style="color: white;">Thông Tin BlogNK</b><br>
+          <div class="hotro"> 
+              BlogNK – Blog review về các loại mỹ phẩm, làm đẹp, chăm sóc da mặt, tóc, môi giúp chị em dễ dàng lựa chọn một sản phẩm skin care phù hợp. Đến với kênh bạn còn tìm thấy được các mẹo về làm đẹp, trị mụn và bảo vệ da giúp chị em luôn tươi trẻ và tự tin hơn!
+          </div>
+      </div>
+      <div class="col-md-4">
+          <b style="color: white;">Thông tin liên hệ</b><br>
+          <div class="hotro"> 
+              Địa chỉ: Số 31 Ngõ 255 Cầu Giấy, Dịch Vọng, Cầu Giấy, Hà Nội.<br>
+              Điện thoại: 0855088333<br>
+              Liên hệ quảng cáo: blogNK.com@gmail.com<br>
+           
+          </div>
+         
+      </div>
+    
+      <div class="col-md-4">
+          <b style="color: white;">Giới thiệu</b><br>
+          <div class="hotro">
+              Liên hệ<br>
+              Chính sách bảo mật<br>
+              Điều khoản sử dụng<br>
+            
+          </div>
+      </div>
+    </div>
+  
+       
+</body>
+</html>
