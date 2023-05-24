@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog Mỹ phẩm</title>
+  <link rel="stylesheet" type="text/css" href="content.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Blog Mỹ phẩm</h1>
+    </div>
+  </header>
+  
+  <nav>
+    <div class="container">
+      <ul>
+        <li><a href="blog.html">Trang chủ</a></li>
+        <li><a href="content.html">Bài viết</a></li>
+        <li><a href="#">Về chúng tôi</a></li>
+        <li><a href="#">Liên hệ</a></li>
+      </ul>
+    </div>
+  </nav>
+  <main>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog của tôi</title>
+ 
+</head>
+<body>
+  <div class="blog-content">
+
+    <div class="blog-content">
+        <div class="container">
+            <div class="chu">
+                <h1>[REVIEW] GỢI Ý CHO BẠN CÁCH LÀM ĐẸP HIỆU QUẢ</h1> <h1>TRONG 30 NGÀY</h1>
+                <span style="margin-left: 40px;">Chúng </span>tôi rất vui mừng giới thiệu đến bạn dòng sản phẩm mỹ phẩm chất lượng cao của chúng tôi. Với tầm nhìn tạo nên vẻ đẹp tự nhiên và sự tự tin hoàn hảo, chúng tôi cam kết mang đến cho bạn những trải nghiệm làm đẹp tuyệt vời và chăm sóc da toàn diện.<br>
+<br>
+                <span style="margin-left: 40px;">Sản</span> phẩm mỹ phẩm của chúng tôi không chỉ đáp ứng các nhu cầu làm đẹp hàng ngày của bạn, mà còn chứa đựng những thành phần tự nhiên độc đáo, giúp nuôi dưỡng và cải thiện làn da của bạn. Với công thức tiên tiến và công nghệ hiện đại, chúng tôi tạo ra những sản phẩm mỹ phẩm được tối ưu hóa để đem lại hiệu quả tối đa.<br>
+<br>
+                <div class="blog-image">
+                    <img src="content1.jpg" alt="Mô tả hình ảnh" style="width: 400px;height: 400px;">
+                </div>
+
+                <span style="margin-left: 40px;">Hơn</span> nữa, chúng tôi cũng xây dựng nội dung độc đáo và hấp dẫn, chứa đựng những thông tin hữu ích về cách sử dụng sản phẩm, lợi ích và cách chăm sóc da hàng ngày. Bằng cách kết hợp sự tối ưu hóa SEO và cung cấp thông tin hữu ích, chúng tôi mong muốn đem đến cho bạn trải nghiệm trực tuyến tốt nhất và giúp bạn tìm thấy những giải pháp làm đẹp phù hợp với nhu cầu của mình.<br>
+<br>
+                <span style="margin-left: 40px;">Hãy</span> khám phá bộ sưu tập sản phẩm đa dạng của chúng tôi, từ kem dưỡng ẩm, mặt nạ, serum cho đến son môi và nhiều sản phẩm khác. Chúng tôi cam kết rằng bạn sẽ tìm thấy những giải pháp làm đẹp phù hợp với mong đợi của mình và đạt được vẻ đẹp mà bạn luôn khao khát.<br>
+<br>
+                <div class="blog-image">
+<img src="content2.jpg" alt="Mô tả hình ảnh" style="width: 400px;height: 400px;">
+                </div>
+                <span style="margin-left: 40px;">Hãy</span> tham gia cùng chúng tôi và khám phá những bí quyết làm đẹp tuyệt vời. Liên hệ ngay với đội ngũ tư vấn chuyên nghiệp của chúng tôi để được hỗ trợ và tư vấn tận tâm.<br>
+<br>
+           
+
+                <span style="margin-left: 40px;">Tận</span> hưởng vẻ đẹp tự nhiên và tự tin cùng sản phẩm mỹ phẩm chất lượng cao của chúng tôi, ngoài ra các khách hàng có thể xem qua trang <a href="blog.html" style="color: pink;">blog</a> của chúng tôi đã biết được các sản phẩm nên mua và phù hợp với loại da.Sau khi tham khảo thì các quý khách có thể mua các mặt hàng mỹ phẩm đã được review thực tế qua <a href="" style="color: pink;">NK SHOP</a> của chúng tôi.
+            </div>
+      </div>
+<br>  
+    
+    <div class="blog-image">
+      <img src="LOGOBLOG.jpg" alt="Mô tả hình ảnh" style="width: 600px;height: 400px;">
+      <img src="logo.jpg" alt="Mô tả hình ảnh" style="width: 550px;">
+    </div>
+    
+  </div>
+</body>
+</html>    
+      
+  </main>
+  
+  <footer>
+    <div class="container">
+      &copy; 2023 Blog Mỹ phẩm. All rights reserved.
+    </div>
+
+    <!-- Đây là khu vực chứa footer các số điện thoại liên hệ ,... -->
+    <div class="row">   
+      <div class="col-md-4">
+       <b style="color: white;">Thông Tin NK Blog</b><br>
+          <div class="hotro"> 
+              NK Blog – Blog review về các loại mỹ phẩm, làm đẹp, chăm sóc da mặt, tóc, môi giúp chị em dễ dàng lựa chọn một sản phẩm skin care phù hợp. Đến với kênh bạn còn tìm thấy được các mẹo về làm đẹp, trị mụn và bảo vệ da giúp chị em luôn tươi trẻ và tự tin hơn!
+          </div>
+      </div>
+      
+      <div class="col-md-4">
+          <b style="color: white;">Thông tin liên hệ</b><br>
+          <div class="hotro"> 
+              Địa chỉ: 536 Âu Cơ Phường 10 Quận Tân Bình TP.HCM.<br>
+              Điện thoại: 0586772599<br>
+              Liên hệ quảng cáo: NKblog@gmail.com<br>
+           
+          </div>
+         
+      </div>
+    
+      <div class="col-md-4">
+          <b style="color: white;">Giới thiệu</b><br>
+          <div class="hotro">
+              Liên hệ<br>
+              Chính sách bảo mật<br>
+              Điều khoản sử dụng<br>
+            
+          </div>
+      </div>
+  </footer>
+</body>
+</html>
